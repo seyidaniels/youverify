@@ -6,3 +6,17 @@ function isUnique(char) {
     }
     return true;
 }
+
+
+
+const characters = ['seyi', 'daniels']
+const results = [true, true]
+
+/**
+
+
+ Write test cases 
+# 
+
+
+**/
