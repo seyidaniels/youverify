@@ -12,6 +12,17 @@ function isUnique(char) {
 const characters = ['seyi', 'daniels']
 const results = [true, true]
 
+
+for(let i =0; i < characters.length; i+=1) {
+    
+    if (isUnque(characters[i] === result[i])) {
+     console.log('Test case passed')   
+    }else {
+        console.log('Test case failed')
+    }
+    
+}
+
 /**
 
 
